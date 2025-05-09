@@ -1,0 +1,12 @@
+[submodule "subgit/oh-my-nvim"]
+	path = subgit/oh-my-nvim
+	url = https://github.com/AstroNvim/AstroNvim.git
+[submodule "subgit/alacritty-theme"]
+	path = subgit/alacritty-theme
+	url = https://github.com/alacritty/alacritty-theme.git
+[submodule "subgit/oh-my-zsh"]
+	path = subgit/oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "subgit/oh-my-tmux"]
+	path = subgit/oh-my-tmux
+	url = https://github.com/gpakosz/.tmux.git

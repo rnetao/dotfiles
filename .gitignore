@@ -1,0 +1,5 @@
+*.ignore
+*.cache
+*.cache.zwc
+zsh/.zcompdump
+zsh/.zsh_history
