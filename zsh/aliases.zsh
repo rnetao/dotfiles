@@ -5,7 +5,7 @@ alias proxy='export all_proxy=http://127.0.0.1:7890'
 alias unproxy='unset all_proxy'
 alias setproxy='export all_proxy="socks5://127.0.0.1:7890"'
 
-alias cat="bat"
+# alias cat="bat"
 
 alias vimo=/opt/homebrew/bin/vim
 alias vim=nvim

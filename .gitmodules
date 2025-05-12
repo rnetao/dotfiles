@@ -7,3 +7,6 @@
 [submodule "subgit/oh-my-tmux"]
 	path = subgit/oh-my-tmux
 	url = https://github.com/gpakosz/.tmux.git
+[submodule "subgit/zsh-autosuggestions"]
+	path = subgit/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
