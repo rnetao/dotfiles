@@ -12,3 +12,5 @@ alias vim=nvim
 
 alias node-9228='node --inspect-brk=9228'
 alias node-9229='node --inspect-brk=9229'
+
+alias ct='tmux new-session -e -c /bin/zsh'

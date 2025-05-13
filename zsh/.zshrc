@@ -21,7 +21,7 @@ plugins=(
   colorize # 是cat和less命令显示文本有色彩，提供命令ccat和cless, 依赖Pygments可用brew安装
   vi-mode # vi模式插件
   colored-man-pages # man命令颜色显示
-  command-not-found # 命令没找到提示可用的相似命令
+  # command-not-found # 命令没找到提示可用的相似命令
   gitignore # 自动生成.gitignore文件，gl list查看所有支持的语言
   emoji # 显示表情，display_emoji左右表情，random_emoji随机表情
   themes # omz主题，lstheme显示左右主题，theme随机跟换主题
@@ -54,4 +54,3 @@ source $ZSH/oh-my-zsh.sh
 
 # 手动启用zsh插件
 source $DOTFILES_PATH/subgit/zsh-autosuggestions/zsh-autosuggestions.zsh
-
