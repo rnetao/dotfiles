@@ -1,1 +1,1 @@
-git submodule add <仓库地址> <路径>
+zellij默认配置：`zellij setup --dump-config`

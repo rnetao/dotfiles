@@ -13,7 +13,5 @@ if [[ -z "$_SOURCE_CONDA_DONE" ]]; then
     fi
     unset __conda_setup
     # <<< conda initialize <<<
-
-    conda activate develop
     export _SOURCE_CONDA_DONE=1
 fi

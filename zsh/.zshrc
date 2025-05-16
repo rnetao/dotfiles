@@ -54,3 +54,5 @@ source $ZSH/oh-my-zsh.sh
 
 # 手动启用zsh插件
 source $DOTFILES_PATH/subgit/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+eval "$(starship init zsh)"
